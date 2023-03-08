@@ -1,0 +1,164 @@
+.main{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+nav{
+    display: flex;
+    text-decoration: none;
+    margin-left: 300px;
+    padding: 10px;
+    padding-right: 90px;
+    align-items: center;
+    justify-content: space-between;
+}
+li{
+    list-style-type: none;
+    font-size: 20px;
+    
+}
+#img{
+    margin-left: -90px;
+    
+}
+nav,ul{
+    
+     /* border: double; 
+     border-collapse: separate;
+     border-top: 9px; */
+    display: flex; 
+    text-align: right;
+    width: 100%;
+    padding-right: 30px;
+}
+nav ul li{
+    display: inline-block;
+    padding-right: 35px;
+    padding-left: 35px;
+}
+    
+    /* text-decoration: none;
+    margin-left: 300px;
+    padding-right: 20px;
+    justify-content: space-between; */
+#img2{
+
+}
+.header{
+    display: flex;
+    padding: 30px 20px;
+    background-color:yellow;
+}
+.cont{
+
+    border: solid;
+    padding: 20px 20px;
+    float: right ;
+    margin-right: 90px;
+    /* background-color: yellow; */
+    border-radius: 20px;
+
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 100px;
+}
+.roll{
+    display: flex;
+}
+.roll2{
+    display: flex;
+}
+.new{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+}
+.series{
+    text-align: center;
+    font-size: 70px;
+    color: hotpink
+}
+.movie{
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 80px;
+    
+}
+.movie2{
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 80px;
+    
+}
+#ideas{
+    background-color: b
+}
+.movie3{
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 100;
+    padding-inline: 80PX;
+    
+}
+.movie4{
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 100;
+    padding-inline: 80PX;
+    
+}
+#duplo{
+    background-image: url(img/duplo.png);
+}
+#but1{
+    
+    border: 10px;
+    padding: 20px 25px;
+    color: azure;
+    background-color:yellow;
+    font-size: 20px solid;
+    margin-left: 600px;
+    margin-top: 35px;
+}
+#dis{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 80px;
+    color: rgb(2, 0, 0);
+}
+.birth{
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 230px;
+    border-radius: -40px;
+}
+.footer{
+    padding:10px;
+    background-color: #26004C;
+    color: #fff;
+}
+.row{
+    display: flex;
+}
+.footer-col{
+    width: 25%;
+    padding: 0 15px;
+}
+#send{
+    color: red;
+    margin-left: -80px;
+
+}
+.discount{
+   background-color: #FFF600; 
+   
+
+}
+#text{
+   
+}
+#input2{
+
+}
+
