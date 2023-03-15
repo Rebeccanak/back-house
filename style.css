@@ -1,3 +1,9 @@
+@media (max-width: 600px) {
+    body {
+      background-color:cornsilk;
+    }
+  }
+
 .main{
     margin-left: 10px;
     margin-right: 10px;
@@ -54,7 +60,7 @@ nav ul li{
     padding: 20px 20px;
     float: right ;
     margin-right: 90px;
-    /* background-color: yellow; */
+    background-color: rgb(190, 190, 177);
     border-radius: 20px;
 
 }
@@ -134,16 +140,17 @@ h1{
     border-radius: -40px;
 }
 .footer{
-    padding:10px;
+    /* padding:10px; */
     background-color: #26004C;
     color: #fff;
+
 }
 .row{
     display: flex;
 }
 .footer-col{
     width: 25%;
-    padding: 0 15px;
+    /* padding: 0 15px; */
 }
 #send{
     color: red;
@@ -161,4 +168,48 @@ h1{
 #input2{
 
 }
+#select{
+color: #FFF600;
+border: solid yellow;
+background-color: #FFF600;
+padding: 5px;
+}
+#input1{
+    
+
+}
+.footer{
+        padding:50px;
+        background-color: #26004C;
+        color: #fff;
+        height: 40vh;
+    }
+    .row{
+        display: flex;
+        justify-content: space-between;
+    }
+    .footer-two{
+        display:flex;
+        justify-content: space-between;
+    }
+    .company{
+        
+    }
+/* footer{
+    padding: 20px;
+    background-color: rgb(95, 10, 95);
+    color: white;
+    
+}
+/* .row{
+    display: flex;
+    justify-content: space-between; */
+
+/* 
+.footer-two{
+display: flex;
+justify-content: space-between;
+}
+.footer-col{
+     */
 
