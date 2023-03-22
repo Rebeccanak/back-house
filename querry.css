@@ -2,8 +2,8 @@
     .main{
         margin-left: 10px;
         margin-right: 10px;
-    }
-    nav{
+    /* }
+    /* nav{
         display: flex;
         text-decoration: none;
         margin-left: 300px;
@@ -201,4 +201,4 @@
 
 
 
-}
+} 
