@@ -1,8 +1,8 @@
-@media (max-width: 600px) {
+@media (max-width: 1400px) {
     body {
       background-color:cornsilk;
     }
-  }
+  
 
 .main{
     margin-left: 10px;
@@ -195,6 +195,13 @@ padding: 5px;
     .company{
         
     }
+    .column,.column1,.column2,.column3,.column4,.column5,.column6,.column7{
+        border-radius: 3px;
+        box-shadow: 0 5px 20px rgb(0,0,0, .3);
+        margin:15px;
+        text-align: center;
+    }
+}
 /* footer{
     padding: 20px;
     background-color: rgb(95, 10, 95);
