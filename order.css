@@ -1,0 +1,155 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin: 2% 26%;
+    color: gray;
+    text-align: center;
+    
+  }
+  #firstimage{
+    display:flex;
+    border: solid 2px yellow;
+    border-radius: 4px;
+    background-color: yellow;
+    justify-content: space-between;
+  }
+  
+  .btns{
+    border: solid gray 2px;
+    border-radius: 4px; 
+    margin-top: 25px;
+    padding-right: 2px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+  }
+  #search{
+    border-radius: 4px; 
+    margin-right: 450px;
+    margin-top: 25px;
+    padding-right: 200px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+  }
+  .iconics{
+    margin: 2%;
+    padding-right: 5px;
+  }
+  
+  #btn21{
+    padding: 0px, 200px;
+    margin-left: 0%;
+    color: black;
+    background-color:white;
+    border: solid rgb(124, 243, 124) ;
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+  }
+  #btn22{
+    padding: 0px, 150px;
+    margin-left: 0%;
+    color: white;
+    background-color: orange;
+    border: solid orange 5px;
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+  }
+  
+  
+  .orders{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+  }
+  #word1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0%;
+    margin-left: 10%;
+    
+  }
+  #word2{
+    margin-left: 160%;
+    margin-top: 3%;
+  }
+  #word21{
+    margin-left: 125%;
+    margin-top: 3%;
+  }
+  .order1{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  #guide{
+    margin-right: 11%;
+    margin-left: 26%;
+    margin-top: 6%;
+    border-radius: 13px;
+    border: solid 2px gray;
+    background-color: white;
+    font-weight: bolder;
+    border-width: 100%;
+    height: max-content;
+    font-size:large;
+    padding-left: 11px;
+    padding-right: 22px;
+    justify-content: space-between;
+  }
+  #interested{
+    text-align: center;
+  }
+  .img2{
+    display: flex;
+    justify-content: space-between;
+    margin: 4% 11%;
+  }
+  #btn2{
+    padding: 0px, 100px;
+    margin-left: 46%;
+    color: white;
+    background-color: orange;
+    border: solid orange 25px;
+    border-radius: 5px;
+  }
+  #btn2b{
+    padding: 0px, 152px;
+    margin-left: 40%;
+    color: white;
+    background-color: orange;
+    border: solid orange 5px;
+    width: 298px;
+    height: 41px;
+    border-radius: 5px;
+  }
+  
+  
+  .end{
+    display: flex;
+    color: white;
+    padding: 1% 1%;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #26004c;
+  
+  }
+  .endline{
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #26004c;
+    
+    padding-right: 37%;
+    padding-left: 1%;
+  }
+  @media screen and (max-width: 914px){
+  
+    .footer{
+        height: 60vh;
+        width: 110%;
+        margin-left:-6%;
+        }
+      }
+  
