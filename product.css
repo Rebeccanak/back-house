@@ -154,13 +154,14 @@ background-color: yellow;
  
 .buts{
     margin-left: 20%;
+    display: flex;
     
     }
-    #abt{
+    #abt1{
       border-radius: 10px;
       border: solid yellow;
       padding:20px 50px 20px;
-    margin-top: 10%;
+    margin-top: 50px;
     background-color: yellow;
     }
     #rev{
@@ -346,7 +347,7 @@ background-color: yellow;
 @media(min-width: 320px) and (max-width: 480px) {
     body {  
 } */
-    */
+    
 
 
 
@@ -362,4 +363,6 @@ background-color: yellow;
         
     
 
+    
+        
     
