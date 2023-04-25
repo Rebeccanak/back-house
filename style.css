@@ -1,13 +1,17 @@
-@media (max-width: 1400px) {
+/* @media (max-width: 1400px) {
     body {
-      background-color:cornsilk;
-    }
-  
+      background-color:cornsilk; */
+    
+  .mains{
+    margin: left 5%;
+    margin: right 5%;
 
-.main{
-    margin-left: 10px;
-    margin-right: 10px;
-}
+  }
+/* 
+div.mains{
+    margin-left: 5px;
+    margin-right: 5px;
+} */
 nav{
     display: flex;
     text-decoration: none;
@@ -202,21 +206,12 @@ padding: 5px;
         text-align: center;
     }
 }
-/* footer{
-    padding: 20px;
-    background-color: rgb(95, 10, 95);
-    color: white;
+@media screen and (max-width:1280){
     
 }
-/* .row{
-    display: flex;
-    justify-content: space-between; */
 
-/* 
-.footer-two{
-display: flex;
-justify-content: space-between;
-}
-.footer-col{
-     */
+
+
+
+
 

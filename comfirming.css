@@ -1,0 +1,186 @@
+.main{
+
+        margin: left 30%;
+        margin: right 30%;
+}
+.enter{
+    font-size: 50px;
+    margin-left: 40px;
+}
+.hom{
+
+
+    background-color:  yellow;
+    /* width: 30px;
+    justify-content: space-between;
+ display: flex;
+   
+    margin-bottom: 2px;
+    flex-direction: row;
+    font-size: 40px; */
+}
+.flex{
+    /* flex-direction: row;
+    background-color: yellow;
+    border: solid 5px;
+    display: flex;
+    justify-content: space-between;
+} */
+}
+
+#im{
+    width: px;
+}
+.ico{
+margin-left: 60%;
+    padding-bottom: 5px;
+
+}
+.icons{
+   
+    margin-left: 85%;
+    margin-top:-1%;
+
+}
+.search{
+margin-left: 67%;
+margin-top: -1.5%;
+
+}
+.lastname{
+margin-top: 5%;
+
+
+}
+.move1{
+    margin-left: 400px;
+    margin-top: -180px;
+   
+}
+.move{
+margin-left: 49px;
+}
+#first,#phone,#last,#mail{
+    width: 300px;
+    height: 40px;
+}
+
+#guide{
+    
+    margin-left: 1000px;
+    margin-top: -300px;
+    width: 260px;
+    margin-right: 500px;
+    border: solid 2px;
+   
+    border-radius: 4%;
+    size-adjust: 2px;
+    padding: 80px 100px;
+    
+    
+    
+
+  }
+  #duct{
+    font-size: 35px;
+    margin-left: -30px;
+    margin-bottom: -0px;
+    
+
+  }
+  #btn21{
+    padding: 20px 120px;
+    margin-left: 0%;
+    color: black;
+    background-color:white;
+    border: solid rgb(124, 243, 124) ;
+    width: 130px;
+    height: 40px;
+    border-radius: 5px;
+  }
+  #btn22{
+    padding: 20px 120px;
+    margin-left: 0%;
+    color: white;
+    background-color: orange;
+    border: solid orange 5px;
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+  }
+  #ins{
+    margin-left: 6px;
+    font-size:25px;
+  }
+/* 
+.move{ */
+  /* border: grey solid 2px;  */
+  /* margin-right: 400px;
+  float:right;
+  margin-right: -2px;
+  padding: 65px;
+  margin-top: -58%;
+  margin-right: 200px; */
+  
+   
+
+.adobe{
+  font-size: 20px;
+    }
+
+#addres{
+  margin-left: 60px;
+}
+#del{
+  margin-left: 60px;
+}
+#free{
+  margin-left: 55px;
+}
+
+.ic1{
+  margin-left: 5%;
+color: #FFD600;
+    }
+    .ic2{
+        margin-left: 8%;
+        color: #FFD600;
+        margin-top: -1%;
+    }
+    .ic3{
+        margin-left: 5%;
+    }
+    .ic4{
+        margin-left: 8%;
+        color: red;
+        margin-top: -1%;
+    }
+    .ic5{
+        margin-left: 8%;
+        margin-top: -1%;
+    }
+    .ic6{
+        margin-left: 5%;
+    }
+    .cash{
+        margin-left: 15%;
+        margin-top: -1.5%;
+     font-weight: bold;
+     font-size: 20px;
+    }
+    .google{
+        margin-left: 15%;
+        margin-top: -1.5%;
+     font-weight: bold;
+     font-size: 20px;
+    }
+    .apple{
+        margin-left: 15%;
+        margin-top: -1.5%;
+     font-weight: bold;
+     font-size: 20px;
+    }
+    .brik{
+        color: grey;
+        margin-left: 48%;
+        }

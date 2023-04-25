@@ -1,7 +1,19 @@
 /* @media only screen and (min-width:768px){ */
 
-  @media (max-width: 1400px) {
-  }
+.main{
+
+  margin: left 5%;
+  margin: right 5%;
+}
+.navbar{
+
+
+
+}
+
+
+
+
   
 
 .navbar{
@@ -18,6 +30,9 @@
     border-radius: 4px;
     background-color: yellow;
     justify-content: space-between;
+  }
+  #imag,#imag1,#imag2{
+    width: 200px;
   }
   
   .btns{
@@ -89,6 +104,7 @@
   }
   
   #guide{
+    
     margin-right: 11%;
     margin-left: 26%;
     margin-top: 6%;
@@ -103,14 +119,19 @@
     padding-right: 22px;
     justify-content: space-between;
   }
-  #interested{
+  #ins{
     text-align: center;
+    font-size: 40px;
   }
   .img2{
     display: flex;
     justify-content: space-between;
     margin: 4% 11%;
   }
+  #im1,#im2,#im3,#im4{
+    width: 200px
+
+    }
   #btn2{
     padding: 0px, 100px;
     margin-left: 46%;
@@ -128,6 +149,9 @@
     width: 298px;
     height: 41px;
     border-radius: 5px;
+  }
+  .min{
+
   }
   
   
@@ -150,12 +174,163 @@
     padding-right: 37%;
     padding-left: 1%;
   }
-  @media screen and (max-width: 914px){
+  @media screen and (max-width: 667px){
+  .iconics{
+margin-left: -250%;
+
+
+  }
+
+  #im1,#im2,#im3,#im4{
+    width: 200px
+    
+
+    }
+  #search{
+    margin-left: -50%;
+    border-radius: 4px; 
+    margin-right: 450px;
+    margin-top: 25px;
+    padding-right: 2px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+  }
+  .btns{
+    margin-left: -200%;
+    border: solid gray 2px;
+    border-radius: 4px; 
+    margin-top: 25px;
+    padding-right: 1px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+  }
+
+  .orders{
   
-    .footer{
-        height: 60vh;
-        width: 110%;
-        margin-left:-6%;
-        }
-      }
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+  }
+
+  .order1{
+    width: 8%;
+    height: 20%;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  
+  #imag, #imag1, #imag2{
+    
+    width: 90px;
+  }
+  
+
+  #word1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0.2%;
+    margin-left: 5%;
+    
+  }
+  #word2{
+    margin-left: 120%;
+    margin-top: 3%;
+  }
+  .min{
+    margin-top: -15px;
+    font-size: 15px;
+    /* justify-content: space-between; */
+  }
+  #bet{
+    margin-top: -5px;
+    size: 1px;
+    border-radius: 2px;
+    padding: 1px;
+  }
+  #money1{
+margin-left: -50px;
+  }
+  #money2{
+margin-left: -50px;
+  }
+  #money3{
+    margin-left: -90px;
+  }
+
+  #guide{
+  
+    margin-right: -9%;
+    width: 140px;
+    
+    border: solid 3px;
+    margin-left: -35px;
+    border-radius: 4%;
+    size-adjust: 5px;
+    padding: 0px;
+
+  }
+  #duct{
+    font-size: 15px;
+
+  }
+  #btn21{
+    padding: 0px, 50px;
+    margin-left: 0%;
+    color: black;
+    background-color:white;
+    border: solid rgb(124, 243, 124) ;
+    width: 130px;
+    height: 40px;
+    border-radius: 5px;
+  }
+  #btn22{
+    padding: 0px, 120px;
+    margin-left: 0%;
+    color: white;
+    background-color: orange;
+    border: solid orange 5px;
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+  }
+  #ins{
+    margin-left: 6px;
+    font-size:10px;
+  }
+
+  #firstimage{
+    font: small 10px;
+    display:flex;
+    border: solid 1px yellow;
+    border-radius: 2px;
+    background-color: yellow;
+    justify-content: space-between;
+  }
+
+  #im1,#im2,#im3,#im4{
+    width: 70px
+
+
+
+
+  }
+
+  
+  #btn2b{
+    padding: 0px, 102px;
+    margin-left: 15%;
+    color: white;
+    background-color: orange;
+    border: solid orange 5px;
+    width: 298px;
+    height: 41px;
+    border-radius: 5px;
+  }
+    .end{
+      display: grid;
+    }
+
+    }    
+    
   

@@ -1,10 +1,9 @@
 
-@media only screen and (max-width:1000px){
     .main{
         margin: left 5%;
         margin: right 5%;
     }
-}
+
 #product{
     font-size: 40px;
     font-weight: bolder;
@@ -319,44 +318,13 @@ background-color: yellow;
     
 
     }
-    /* @media only screen and(max-width:700px) {
-    body{
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
-    }
-    } */
- /* Mobile Responsive CSS{
-
-}
-            
-  
- Tablet Responsive CSS{
-
- }
-        @media only screen and (min-width: 768px) and (max-width: 991px) {
-
-        }
-/*    */
-/* @media(min-width: 1025px) and (max-width:1200px) {
-    body{
-    }
-}
-@media(min-width: 769px) and (max-width:1024px) {
-    body{
-    }
-}
-@media(min-width: 481px) and (max-width: 768px) {
-    body{
-    }
-}
-@media(min-width: 320px) and (max-width: 480px) {
-    body {  
-} */
     
+  @media screen and (max-width: 915px){
 
 
 
 
+}
 
 
 
