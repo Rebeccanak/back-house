@@ -47,6 +47,10 @@ margin-left: 67%;
 margin-top: -1.5%;
 
 }
+#cat{
+  margin-left: -100px;
+
+}
 .lastname{
 margin-top: 5%;
 
@@ -184,3 +188,100 @@ color: #FFD600;
         color: grey;
         margin-left: 48%;
         }
+        
+  @media screen and (max-width: 896px){
+
+    .search{
+      margin-left: 47%;
+      margin-top: -1.5%;
+      font-size: 15px;
+      
+      }
+      #cat{
+        margin-left: -100px;
+        font-size: 15px;
+    
+  }
+  
+.enter{
+  font-size: 20px;
+  margin-left: 10px;
+  
+
+  }
+  .form{
+  margin-left: -40px;
+  }
+
+.move1{
+  margin-left: 175px;
+  margin-top: -125px;
+  font-size: 15px;
+ 
+}
+.move{
+margin-left: 49px;
+font-size: 15px;
+
+  }
+
+#first,#phone,#last,#mail{
+  font: 10px;
+  width: 100px;
+  height: 20px;
+  
+
+  }
+
+
+#guide{
+    
+  margin-left: 250px;
+  margin-top: -200px;
+  width: 100px;
+  margin-right: 200px;
+  border: solid 1px;
+ 
+  border-radius: 2%;
+  size-adjust: 2px;
+  padding: 0px 20px;
+  
+  
+  
+  
+
+}
+#duct{
+  font-size: 15px;
+  margin-left: -15px;
+  margin-bottom: -0px;
+  
+
+}
+#btn21{
+  padding: 5px 20px;
+  margin-left: 5px;
+  color: black;
+  background-color:white;
+  border: solid rgb(124, 243, 124) ;
+  width: 60px;
+  height: 10px;
+  border-radius: 5px;
+}
+#btn22{
+  padding: 5px 25px;
+  margin-left: 0%;
+  color: white;
+  background-color: orange;
+  border: solid orange 5px;
+  width: 30px;
+  height: 10px;
+  border-radius: 2px;
+}
+#ins{
+  margin-left: 3px;
+  font-size:10px;
+}
+  
+
+  }
